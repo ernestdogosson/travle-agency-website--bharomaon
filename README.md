@@ -84,7 +84,7 @@ Open `index.html` in your browser.
 
 ## Live Demo
 
-[View Live Site](https://ernestdogosson.github.io/travel-agency-website--bharomaon/)
+[View Live Site](https://ernestdogosson.github.io/travle-agency-website--bharomaon/)
 
 ## Contact
 
