@@ -62,7 +62,7 @@ scss/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/travel-agency-website.git
+git clone https://github.com/ernestdogosson/travel-agency-website--bharomaon.git
 cd travel-agency-website
 ```
 
@@ -84,7 +84,7 @@ Open `index.html` in your browser.
 
 ## 🌟 Live Demo
 
-[Live Project](https://yourusername.github.io/travel-agency-website/)
+[Live Project](https://ernestdogosson.github.io/travel-agency-website--bharomaon/)
 
 ## 📞 Contact
 
