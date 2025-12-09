@@ -1,9 +1,14 @@
 // Simple background mixin - one image, looks good everywhere
+@use 'sass:map';
 @use 'variables' as *;
 
 // Font size function
 @function fonts($size) {
-	@return map-get($font-sizes, $size);
+	@return map.get($font-sizes, $size);
+}
+
+@function space($size) {
+	@return map.get($spacing, $size);
 }
 
 // Section background mixin
@@ -27,10 +32,9 @@
 	color: $color-text-main;
 	border: none;
 	font-family: $font-heading;
-	// font-size: fonts('body'); // 16px
 	padding: 0.75rem 1.5rem;
 	cursor: pointer;
-	transition: background-color 0.3s ease;
+	transition: opacity 0.15s ease;
 
 	&:hover {
 		opacity: 0.9;

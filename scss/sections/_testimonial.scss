@@ -27,12 +27,14 @@
 
 	&__media {
 		flex: 1;
+		height: 100%;
 	}
 
 	&__item {
 		flex: 2;
 		background-color: $color-footer-bg;
-		padding: clamp(0.5rem, 1vw, 1.25rem);
+		padding: space('xs');
+		height: 100%;
 	}
 
 	&__info-title {

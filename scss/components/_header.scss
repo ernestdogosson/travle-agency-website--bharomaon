@@ -3,7 +3,10 @@
 
 .hero {
 	@include section-bg('page1.png');
-	position: relative;
+
+	& {
+		position: relative;
+	}
 
 	&__content {
 		flex: 1;
