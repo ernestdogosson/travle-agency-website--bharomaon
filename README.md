@@ -2,13 +2,13 @@
 
 A responsive travel agency website built as part of my frontend development learning journey. This project helped me practice real-world layout techniques, SCSS organization, and interactive UI features.
 
-## 🎯 Project Overview
+## Project Overview
 
 Bhromaon is a multi-section travel website where I focused on using SCSS (Sass) with a clean folder structure, consistent styling, and responsive design. I also added simple JavaScript interactions such as menu toggles and smooth scrolling.
 
 This project represents my growing skills in structuring styles, improving design workflows, and building pages that work well across mobile, tablet, and desktop.
 
-## ✨ Main Features
+## Main Features
 
 - Hero section with search area
 - Bottom-positioned navigation inside hero
@@ -18,14 +18,14 @@ This project represents my growing skills in structuring styles, improving desig
 - Testimonials section
 - Smooth scrolling between sections
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - SCSS / Sass (using 7-1 architecture pattern)
 - CSS3 -- Flexbox, Grid, transitions
 - RemixIcon
 
-## 🏗 SCSS Structure (7-1 Architecture)
+## SCSS Structure (7-1 Architecture)
 
 I used the 7-1 pattern to organize my styles into clear folders and partials:
 
@@ -48,18 +48,18 @@ scss/
 └── main.scss
 ```
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - Organized typography and spacing
 - Simple but clean color palette
 - Smooth hover and transition effects
 
-## 📱 Responsive Design
+## Responsive Design
 
 - Desktop (primary focus)
 - Tablet
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/ernestdogosson/travel-agency-website--bharomaon.git
@@ -74,7 +74,7 @@ sass scss/main.scss css/main.css --watch
 
 Open `index.html` in your browser.
 
-## 🎯 What I Learned
+## What I Learned
 
 - Structuring SCSS using 7-1 pattern
 - Building responsive layouts
@@ -82,11 +82,11 @@ Open `index.html` in your browser.
 - Handling basic DOM interaction
 - Improving general UI/UX decisions
 
-## 🌟 Live Demo
+## Live Demo
 
-[Live Project](https://ernestdogosson.github.io/travel-agency-website--bharomaon/)
+[View Live Site](https://ernestdogosson.github.io/travel-agency-website--bharomaon/)
 
-## 📞 Contact
+## Contact
 
 - Portfolio: coming soon
 - LinkedIn: www.linkedin.com/in/ernestdogo
