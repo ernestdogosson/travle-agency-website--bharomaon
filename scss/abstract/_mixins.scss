@@ -15,7 +15,7 @@
 @mixin section-bg($img) {
 	width: 100%;
 	min-height: 100vh;
-	background-image: url('/images/#{$img}');
+	background-image: url('../images/#{$img}');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
